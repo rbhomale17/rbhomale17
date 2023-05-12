@@ -1,6 +1,6 @@
 **<h2> Hello👋, I am Rushikesh Diliprao Bhomale</h2>**
 
-<p><em>
+<p class="empty"><em>
 An inspired Full Stack Web Developer with a focus on Node.js Backend Development. Proficient in HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB with relevant coursework and project experience. currently pursuing 30 Week Full-Time web development course at Masai School, Benagluru.
 I am Interested to serve in an environment that enables me to utilize my knowledge and skills effectively towards the achievement of organization also to progress professionally.
 
