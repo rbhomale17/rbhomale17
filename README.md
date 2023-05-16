@@ -63,7 +63,7 @@ I am Interested to serve in an environment that enables me to utilize my knowled
 
 **My Github Stats :**
 
- <a href="https://github.com/rbhomale17"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rbhomale17&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a>  <a href="https://github.com/rbhomale17"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhomale17&layout=compact&theme=buefy&hide_border=true" /></a>   <a href="https://github.com/rbhomale17"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rbhomale17&" alt="Rushikesh_Bhomale" /></a>  
+ <a href="https://github.com/rbhomale17"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rbhomale17&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="rbhomale17 github stats" /></a>  <a href="https://github.com/rbhomale17"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhomale17&layout=compact&theme=buefy&hide_border=true" alt="rbhomale17 github stats" /></a>   <a href="https://github.com/rbhomale17"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rbhomale17&" alt="rbhomale17 github stats" /></a>  
 
 <!-- <div style="display: grid; grid-template-columns: repeat(2, 500px);">
  <img class="img" height:"120%" src="https://github-readme-stats.vercel.app/api?username=rbhomale17&show_icons=true" />
