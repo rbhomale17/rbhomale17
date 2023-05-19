@@ -16,7 +16,7 @@ Motivated Node Backend Developer with a strong proficiency in HTML, CSS, and Jav
 
 - 💬 Ask me about **HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | Mongoose**
 
-- 📫 How to reach me : **[Email: rushikeshbhomale@gmail.com](mailto:rushikeshbhomale@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rushikesh-bhomale-aa29a3158/)**
+- 📫 How to reach me : **[rushikeshbhomale@gmail.com](mailto:rushikeshbhomale@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rushikesh-bhomale-aa29a3158/)**
 
 <!-- - 📄 Know about my experiences [name](link should be added here) -->
 ---
