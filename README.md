@@ -12,9 +12,11 @@ Motivated Node Backend Developer with a strong proficiency in HTML, CSS, and Jav
 
 - 🌱 I’m currently learning **Full Stack Web Development Course**
 
-<!-- - 👨‍💻 All of my projects are available at [name](link to add here) -->
+- 👨‍💻 All of my projects are available at [Portfolio](https://rbhomale17.github.io)
 
 - 💬 Ask me about **HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | Mongoose**
+
+<!-- - All my project's are availalbe in portfolio : **[rushikeshbhomale@gmail.com](mailto:rushikeshbhomale@gmail.com) -->
 
 - 📫 How to reach me : **[rushikeshbhomale@gmail.com](mailto:rushikeshbhomale@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rushikesh-bhomale-aa29a3158/)**
 
