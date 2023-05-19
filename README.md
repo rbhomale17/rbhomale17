@@ -75,6 +75,7 @@ Motivated Node Backend Developer with a strong proficiency in HTML, CSS, and Jav
 ---
 
  <a href="https://github.com/rbhomale17"><img src="https://github-profile-trophy.vercel.app/?username=rbhomale17" alt="Rushikesh_Bhomale" /></a>  
+  <a href="https://github.com/rbhomale17"><img src="https://github-contributor-stats.vercel.app/api?username=rbhomale17&limit=5&combine_all_yearly_contributions=true" alt="Rushikesh_Bhomale" /></a>  
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbhomale17" alt="Rushikesh_Bhomale" /></a> </p> -->
 
