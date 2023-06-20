@@ -25,7 +25,7 @@
 <!-- - 📄 Know about my experiences [name](link should be added here) -->
 ---
 
-<img align="center" width="100%" height="400px" src="https://camo.githubusercontent.com/72f8d2943ba29d21a7d8d28a29a78398ff2f805c08335da424e9af38e56ab3a9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a57557a4e5441784e6d55304d6a426d4e6a67314d6d4d794e54457a4f446335596a526d4d545135596a64694e7a67355957466a4d435a6a6444316e2f645765734263544c61766b5a754733354d492f67697068792e676966"  alt="">
+<img align="center" width="100%" height="400px" src="https://meeteasy-main-server.onrender.com/photos/files/6491ec17b6cd5f116897c0f2"  alt="">
 
 ---
 **<i><h3 align="left">Languages and Tools:</h3></i>**
