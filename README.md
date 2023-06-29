@@ -63,7 +63,7 @@
 
 
 
-**My Github Stats :**
+**My Github Stats:**
 
  <a href="https://github.com/rbhomale17"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rbhomale17&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="rbhomale17 github stats" /></a>  <a href="https://github.com/rbhomale17"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhomale17&layout=compact&theme=buefy&hide_border=true" alt="rbhomale17 github stats" /></a>   <a href="https://github.com/rbhomale17"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rbhomale17&" alt="rbhomale17 github stats" /></a>  
 
