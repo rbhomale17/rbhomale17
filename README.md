@@ -35,7 +35,7 @@
 
   <div align="left">
 
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,github,netlify,vscode,visualstudio,mysql,postman,ts,redis,aws,react,replit,regex,sequelize,git)](#)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,github,netlify,vscode,mysql,postman,ts,redis,aws,react,replit,regex,sequelize,git)](#)
 
   </div>
 
