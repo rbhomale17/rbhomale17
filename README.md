@@ -25,7 +25,7 @@
 <!-- - 📄 Know about my experiences [name](link should be added here) -->
 ---
 
-<img align="center" width="100%" height="400px" src="main.gif"  alt="main.gif">
+<img align="center" width="100%" height="400px" src="/main.gif"  alt="main.gif">
 
 ---
 **<i><h3 align="left">Languages and Tools:</h3></i>**
