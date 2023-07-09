@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development Course**
 
-- 👨‍💻 All of my projects are available at <a href='https://rbhomale17.github.io/'>Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href='https://rbhomale17.github.io/'>PortFolio</a>
 
-- 💬 Ask me about **HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | Mongoose**
+- 💬 Ask me about **HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | Mongoose | Socket.io | MySQL | LLD | React | npm**
 
 <!-- - All my project's are availalbe in portfolio : **[rushikeshbhomale@gmail.com](mailto:rushikeshbhomale@gmail.com) -->
 
@@ -35,7 +35,7 @@
 
   <div align="left">
 
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,github,netlify,vscode,mongoose)](#)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,github,netlify,vscode,visualstudio,mysql,postman,ts,redis,aws,react,replit,regex,sequelize,git)](#)
 
   </div>
 
