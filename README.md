@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development Course**
 
-- 👨‍💻 All of my projects are available at <a href='https://rbhomale17.github.io/'>PortFolio</a>
+- 👨‍💻 All of my projects are available at <a href='https://rbhomale17.github.io/'><b>PortFolio</b></a>
 
 - 💬 Ask me about **HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | Mongoose | Socket.io | MySQL | LLD | React | npm**
 
