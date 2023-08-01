@@ -6,7 +6,7 @@
   A Skilled Full Stack Web Developer proficient in HTML, CSS, JavaScript, Express.js, and Node.js. Completed a comprehensive 1000+ hour web development course at Masai School with hands-on experience in individual and collaborative projects. Seeking an opportunity to apply the skills and knowledge while continuing to learn and grow in this dynamic field.
 <p>More About Masai School:  <a href="https://masaischool.com/"><b>Click Here</b></a></p>
 </em></p>
-
+ 
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
