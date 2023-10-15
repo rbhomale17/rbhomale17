@@ -1,4 +1,4 @@
-**<h2> Hello👋, I am Rushikesh Diliprao Bhomale</h2>**
+**<h2> Hello👋, I am Rushikesh Diliprao Bhomale</h2>** 
  
 <p class="empty"><em>  
 <!-- Motivated Node Backend Developer with a strong proficiency in HTML, CSS, and JavaScript. Skilled in developing backend solutions using Node.js, Express.js, MongoDB, and Mongoose. Successfully completed a comprehensive 1000+ hour web development course at Masai School, gaining hands-on experience in individual and collaborative projects. Committed to delivering high-quality backend solutions, continuously learning, and fostering effective teamwork. 
