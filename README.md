@@ -4,7 +4,7 @@
 <!-- Motivated Node Backend Developer with a strong proficiency in HTML, CSS, and JavaScript. Skilled in developing backend solutions using Node.js, Express.js, MongoDB, and Mongoose. Successfully completed a comprehensive 1000+ hour web development course at Masai School, gaining hands-on experience in individual and collaborative projects. Committed to delivering high-quality backend solutions, continuously learning, and fostering effective teamwork. 
    -->
   A Skilled Full Stack Web Developer with specialization in Node.js Backend Development and proficiency in HTML, CSS, JavaScript, Express.js, and Node.js. Completed a comprehensive 1000+ hour web development course at Masai School with hands-on experience in individual and collaborative projects. Seeking an opportunity to apply the skills and knowledge while continuing to learn and grow in this dynamic field.
-<p>More About Masai School:  <a href="https://masaischool.com/"><b>Click Here</b></a></p>
+<p>More About Masai School:  <a href="https://masaischool.com/" target="_blank"><b>Click Here</b></a></p>
 </em></p>
   
 <!-- **<h2>Work Experiance</h2>**
@@ -23,7 +23,7 @@
  
 - 🌱 I’m currently learning **Full Stack Web Development Course**
 
-- 👨‍💻 All of my projects are available at <a href='https://rbhomale17.github.io/'><b>PortFolio</b></a>
+- 👨‍💻 All of my projects are available at <a href='https://rbhomale17.github.io/' target="_blank" ><b>PortFolio</b></a>
 
 - 💬 Ask me about **HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | Mongoose | Socket.io | MySQL | LLD | React | npm**
 
