@@ -1,9 +1,7 @@
 **<h2> Hello👋, I am Rushikesh Diliprao Bhomale</h2>**
      
 <p class="empty"><em>   
-<!-- Motivated Node Backend Developer with a strong proficiency in HTML, CSS, and JavaScript. Skilled in developing backend solutions using Node.js, Express.js, MongoDB, and Mongoose. Successfully completed a comprehensive 1000+ hour web development course at Masai School, gaining hands-on experience in individual and collaborative projects. Committed to delivering high-quality backend solutions, continuously learning, and fostering effective teamwork. 
-   -->
-  A Skilled Full Stack Web Developer with specialization in Node.js Backend Development and proficiency in HTML, CSS, JavaScript, Express.js, and Node.js. Completed a comprehensive 1000+ hour web development course at Masai School with hands-on experience in individual and collaborative projects. Seeking an opportunity to apply the skills and knowledge while continuing to learn and grow in this dynamic field.
+A Skilled Full-stack Web Developer with specialization in Node.js Backend Development and proficiency in HTML, CSS, JavaScript, Express.js, and Node.js. Completed a comprehensive 1000+ hour web development course at Masai School with hands-on experience in individual and collaborative projects. Seeking an opportunity to apply the skills and knowledge while continuing to learn and grow in this dynamic field.
 <p>More About Masai School:  <a href="https://masaischool.com/" target="_blank"><b>Click Here</b></a></p>
 </em></p>
   
@@ -15,31 +13,22 @@
  2. Creating and submitting PPAP (Production Part Approval Process) documents to customers, ensuring their validation and approval.
  3. Conducting audits of Product Control plans and carrying out inspections before dispatch to maintain quality standards. -->
 
-</p>
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+</p> 
  
- 
- 
-- 🌱 I’m currently learning **Full Stack Web Development Course**
+- 🌱 I’m a **Node.js Backend Developer**
 
 - 👨‍💻 All of my projects are available at <a href='https://rbhomale17.github.io/' target="_blank" ><b>PortFolio</b></a>
 
 - 💬 Ask me about **HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | Mongoose | Socket.io | MySQL | LLD | React | npm**
 
-<!-- - All my project's are availalbe in portfolio : **[rushikeshbhomale@gmail.com](mailto:rushikeshbhomale@gmail.com) -->
-
 - 📫 How to reach me : **[rushikeshbhomale@gmail.com](mailto:rushikeshbhomale@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rushikesh-bhomale-aa29a3158/)**
 
-<!-- - 📄 Know about my experiences [name](link should be added here) -->
 ---
-<!-- ![main](https://github.com/rbhomale17/rbhomale17/assets/121092445/5809b6eb-0447-4f8b-a4e8-4fb8149528ef) -->
 
 <img align="center" width="100%" height="400px" src="https://github.com/rbhomale17/rbhomale17/assets/121092445/5809b6eb-0447-4f8b-a4e8-4fb8149528ef">
- 
-<!-- <img align="center" width="100%" height="400px" src="https://meeteasy-main-server.onrender.com/photos/files/6491ec17b6cd5f116897c0f2"  alt="main.gif"> -->
 
 ---
+
 **<i><h3 align="left">Languages and Tools:</h3></i>**
 
   <div align="left">
