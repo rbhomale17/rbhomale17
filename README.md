@@ -35,7 +35,7 @@ A Skilled Full-stack Web Developer with specialization in Node.js Backend Develo
       <img align="center" width="150px" height="150px" src="https://cdn.qwiklabs.com/WRkyESR3PqqNWtl%2BzErShTvUBf332GvmNhwnIiWNd6g%3D" alt="3">
 <!--       <img align="center" width="150px" height="150px" src="" alt="4"> -->
       <img align="center" width="150px" height="150px" src="https://cdn.qwiklabs.com/gP0%2BO8fUp0b6T0JRuscTLpeSaE1uBo9lHtxV0VVk4GU%3D" alt="5">
-<!--       <img align="center" width="150px" height="150px" src="" alt="6"> -->
+      <img align="center" width="150px" height="150px" src="https://cdn.qwiklabs.com/sw0jegrgpxW7u2QJcbTXg7rnnY58bR2NfTLhLuUEmTA%3D" alt="6">
       <img align="center" width="150px" height="150px" src="https://cdn.qwiklabs.com/G6fAOZvKvkwKWNMDHKJYxBqu7x1Jp0AaCNfGLKn8vR0%3D" alt="7">
 <!--       <img align="center" width="150px" height="150px" src="" alt="8">
       <img align="center" width="150px" height="150px" src="" alt="9">
