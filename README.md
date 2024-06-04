@@ -38,9 +38,9 @@ A Skilled Full-stack Web Developer with specialization in Node.js Backend Develo
       <img align="center" width="150px" height="150px" style="object-fit: contain;" src="https://cdn.qwiklabs.com/sw0jegrgpxW7u2QJcbTXg7rnnY58bR2NfTLhLuUEmTA%3D" alt="6">
       <img align="center" width="150px" height="150px" style="object-fit: contain;" src="https://cdn.qwiklabs.com/G6fAOZvKvkwKWNMDHKJYxBqu7x1Jp0AaCNfGLKn8vR0%3D" alt="7">
 <!--       <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="8">
-      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="9">
-      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="10">
-      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="11">
+      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="9"> -->
+      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="https://cdn.qwiklabs.com/sJCjZDimTgyE9u1WSbBbnl5XOOupgoNQNddY2TztNKw%3D" alt="10">
+<!--       <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="11">
       <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="12">
       <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="13"> -->
 </div>
