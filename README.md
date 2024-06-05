@@ -29,7 +29,7 @@ A Skilled Full-stack Web Developer with specialization in Node.js Backend Develo
 
 ---
 
-**<i><h3 align="left">Google Cloud Skills Badges:</h3></i>**
+**<i><h3 align="left">Course Badges:</h3></i>**
  <div>
       <img align="center" width="150px" height="150px" style="object-fit: contain;" src="https://cdn.qwiklabs.com/KxVM0SHGIb%2BwtML8Qh2Mlkk1uhzIoUNmxQyAUcGz5fk%3D" alt="2">
       <img align="center" width="150px" height="150px" style="object-fit: contain;" src="https://cdn.qwiklabs.com/WRkyESR3PqqNWtl%2BzErShTvUBf332GvmNhwnIiWNd6g%3D" alt="3">
@@ -39,10 +39,24 @@ A Skilled Full-stack Web Developer with specialization in Node.js Backend Develo
       <img align="center" width="150px" height="150px" style="object-fit: contain;" src="https://cdn.qwiklabs.com/G6fAOZvKvkwKWNMDHKJYxBqu7x1Jp0AaCNfGLKn8vR0%3D" alt="7">
 <!--       <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="8">
       <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="9"> -->
-      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="https://cdn.qwiklabs.com/sJCjZDimTgyE9u1WSbBbnl5XOOupgoNQNddY2TztNKw%3D" alt="10">
-<!--       <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="11">
-      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="12">
-      <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="13"> -->
+</div>
+
+
+
+**<i><h3 align="left">Skills Badges:</h3></i>**
+ <div>
+      <center>
+           <img src="https://images.credly.com/size/680x680/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" alt="10. Prepare Data for ML APIs on Google Cloud" width="200" height="200">
+      </center>
+      <center>
+           <img src="https://images.credly.com/size/680x680/images/8ab21779-042f-4616-a6ab-fd0d62648b24/image.png" alt="11. Build a Data Warehouse with BigQuery" width="200" height="200">
+      </center>
+<!--       <center>
+           <img src="https://images.credly.com/size/680x680/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" alt="12" width="200" height="200">
+      </center>
+     <center>
+           <img src="https://images.credly.com/size/680x680/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" alt="12" width="200" height="200">
+      </center> -->
 </div>
 
 ---
