@@ -51,12 +51,12 @@ A Skilled Full-stack Web Developer with specialization in Node.js Backend Develo
       <center>
            <img src="https://images.credly.com/size/680x680/images/8ab21779-042f-4616-a6ab-fd0d62648b24/image.png" alt="11. Build a Data Warehouse with BigQuery" width="200" height="200">
       </center>
-<!--       <center>
-           <img src="https://images.credly.com/size/680x680/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" alt="12" width="200" height="200">
-      </center>
-     <center>
+    <!-- <center>
            <img src="https://images.credly.com/size/680x680/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" alt="12" width="200" height="200">
       </center> -->
+      <center>
+           <img src="https://images.credly.com/size/680x680/images/c4acff27-5baa-452f-a6b2-ab875da12dfd/image.png" alt="13" width="200" height="200">
+      </center>
 </div>
 
 ---
