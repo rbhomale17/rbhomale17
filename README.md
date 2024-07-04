@@ -15,7 +15,7 @@ A Skilled Full-stack Web Developer with specialization in Node.js Backend Develo
 
 </p> 
  
-- 🌱 I’m a **Node.js Backend Developer** 
+- 🌱 I’m a **Node.js Backend Developer & Aspiring GCP Data Engineer** 
 
 - 👨‍💻 All of my projects are available at <a href='https://rbhomale17.github.io/' target="_blank" ><b>PortFolio</b></a>
 
