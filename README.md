@@ -12,7 +12,7 @@ A Skilled Full-stack Web Developer with specialization in Node.js Backend Develo
  1. Compiling and delivering inspection reports and test samples to our valued customers
  2. Creating and submitting PPAP (Production Part Approval Process) documents to customers, ensuring their validation and approval.
  3. Conducting audits of Product Control plans and carrying out inspections before dispatch to maintain quality standards. -->
-
+ 
 </p> 
  
 - 🌱 I’m a **Node.js Backend Developer & Aspiring GCP Data Engineer** 
