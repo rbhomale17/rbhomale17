@@ -1,27 +1,41 @@
 **<h2> Hello👋, I am Rushikesh Diliprao Bhomale</h2>**   
          
 <p class="empty"><em>   
-A Skilled Full-stack Web Developer with specialization in Node.js Backend Development and proficiency in HTML, CSS, JavaScript, Express.js, and Node.js. Completed a comprehensive 1000+ hour web development course at Masai School with hands-on experience in individual and collaborative projects. Seeking an opportunity to apply the skills and knowledge while continuing to learn and grow in this dynamic field.
-<p>More About Masai School:  <a href="https://masaischool.com/" target="_blank"><b>Click Here</b></a></p>
-</em></p> 
-  
-<!-- **<h2>Work Experiance</h2>**
+  I am a <b>Software Engineer</b> specializing in <b>backend development</b>, with expertise in  
+  <b>Node.js, Express.js, Python, Flask, FastAPI, and scalable backend architecture</b>.  
+  <br><br>
+  Currently, I contribute to  
+  <a href="https://www.neuralhq.ai/" target="_blank"><b>NeuralHQ Technologies</b></a>,  
+  where I focus on building <b>robust, efficient, and scalable backend solutions</b>.  
+  <br><br>
+  With <b>1+ years of experience</b>, I have worked extensively with  
+  <b>JavaScript, Python, PostgreSQL, MongoDB, and Mongoose</b>,  
+  developing high-performance applications.  
+  <br><br>
+  I also work with <b>Google Cloud Platform (GCP) tools</b>,  
+  leveraging cloud services to build and deploy scalable applications.  
+  <br><br>
+  Previously, I completed a <b>rigorous web development program</b> at  
+  <a href="https://masaischool.com/" target="_blank"><b>Masai School</b></a>,  
+  gaining hands-on experience through real-world projects.  
+</em></p>
+
+<hr>
+
 <p>
- I worked in the Quality Control department at NRB Bearings LTD., specifically focusing on plastic cage bearings. As a Graduate Apprentice, my role involved the following core responsibilities over the span of one year: 
- 
- 1. Compiling and delivering inspection reports and test samples to our valued customers
- 2. Creating and submitting PPAP (Production Part Approval Process) documents to customers, ensuring their validation and approval.
- 3. Conducting audits of Product Control plans and carrying out inspections before dispatch to maintain quality standards. -->
-  
-</p> 
- 
-- 🌱 I’m a **Node.js Backend Developer & Aspiring GCP Data Engineer** 
+  🔹 <b>Software Engineer @ NeuralHQ Technologies | Backend Developer | Aspiring GCP Data Engineer</b>  
+  <br><br>
+  🔗 <b>Portfolio:</b>  
+  <a href="https://rbhomale17.github.io/" target="_blank"><b>View My Work</b></a>  
+  <br><br>
+  💬 <b>Ask Me About:</b>  
+  <b>Node.js | Express.js | Python | Flask | FastAPI | PostgreSQL | MongoDB | GCP | Mongoose | JavaScript | LLD | npm</b>  
+  <br><br>
+  📫 <b>Contact Me:</b>  
+  <a href="mailto:rushikeshbhomale@gmail.com"><b>rushikeshbhomale@gmail.com</b></a> |  
+  <a href="https://www.linkedin.com/in/rushikesh-bhomale-aa29a3158/" target="_blank"><b>LinkedIn</b></a>  
+</p>
 
-- 👨‍💻 All of my projects are available at <a href='https://rbhomale17.github.io/' target="_blank" ><b>PortFolio</b></a>
-
-- 💬 Ask me about **HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | Mongoose | Socket.io | MySQL | LLD | React | npm**
-
-- 📫 How to reach me : **[rushikeshbhomale@gmail.com](mailto:rushikeshbhomale@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rushikesh-bhomale-aa29a3158/)**
 
 ---
 
