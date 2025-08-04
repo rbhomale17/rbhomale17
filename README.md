@@ -8,7 +8,7 @@
   <a href="https://www.neuralhq.ai/" target="_blank"><b>NeuralHQ Technologies</b></a>,  
   where I focus on building <b>robust, efficient, and scalable backend solutions</b>.  
   <br><br>
-  With <b>1+ years of experience</b>, I have worked extensively with  
+  With <b>1.5+ years of experience</b>, I have worked extensively with  
   <b>JavaScript, Python, PostgreSQL, MongoDB, and Mongoose</b>,  
   developing high-performance applications.  
   <br><br>
