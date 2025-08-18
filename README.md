@@ -39,6 +39,23 @@
 
 ---
 
+## 💼 Professional Experience
+
+### 🔹 Software Engineer @ NeuralHQ Technologies
+*Jan 2024 – Present | Bengaluru*
+
+**Key Projects:**
+- **🤖 AI Agent "Sean" (Fintech)**: Contributed to a microservices-based AI Agent automating credit card-related customer queries. The agent used personalised SOPs and customer account data to resolve requests (e.g., bill inquiries, payments, card blocking) and escalated complex cases to human agents.
+
+  Developed authentication and identity management microservices, including PostgreSQL schema design, JWT-based REST APIs, and role-based access control, enabling secure access to financial data across services.
+- **🍷 AI Sommelier Agent**: Built a conversational assistant that engages users to understand their wine preferences (varietal, taste, budget, food pairing, etc.) and recommends wines from inventory with purchase links. Implemented backend logic for dialogue flow, preference extraction, and inventory integration using Node.js, Express.js, PostgreSQL, and LLM APIs.
+- **🛡️ Defense System**: Defence system for detecting underground tunnels and landmines using drone/rover-collected GPR data analysed by an ML pipeline and visualised on a real-time mission dashboard. 
+
+  Architected and developed the FastAPI-based backend from scratch as the communication hub between frontend, ML services, and drone systems, designing API contracts and implementing real-time mission management, GPR detection data transfer and PostgreSQL integration.
+- **🌳 Hasiru Rakshaka**: Designed and deployed the entire backend system using Node.js and PostgreSQL for BBMP's "Hasiru Rakshaka" initiative, which tracks tree plantation drives across Bengaluru. The platform enables users to record plantation activities and monitor the health of over 100,000+ planted saplings.
+
+---
+
 <img align="center" width="100%" height="400px" src="https://github.com/rbhomale17/rbhomale17/assets/121092445/5809b6eb-0447-4f8b-a4e8-4fb8149528ef">
 
 ---
@@ -88,49 +105,46 @@
 
 **Email:- rushikeshbhomale@gmail.com**
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/rushikesh-bhomale-aa29a3158">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://rbhomale17.github.io/">
-    <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
-<!--   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=rbhomale17" alt="Twitter Badge"/>
-  </a>
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rbhomale17.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-bhomale-aa29a3158/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikeshbhomale@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/rbhomale17)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rushikeshbhomale)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rushikeshbhomale)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rbhomale17&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</div>
 </div>
 
-<p align="left">
-</p>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbhomale17&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhomale17&layout=compact&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=rbhomale17" alt="GitHub Streak Stats"/>
+</div>
 
 ---
 
+## 🏅 GitHub Trophies
 
-
-**My Github Stats:**
-
- <a href="https://github.com/rbhomale17"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rbhomale17&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="rbhomale17 github stats" /></a>  <a href="https://github.com/rbhomale17"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhomale17&layout=compact&theme=buefy&hide_border=true" alt="rbhomale17 github stats" /></a>   <a href="https://github.com/rbhomale17"><img align="center" src="https://streak-stats.demolab.com/?user=rbhomale17" alt="rbhomale17 github stats" /></a>  
-
-<!-- <div style="display: grid; grid-template-columns: repeat(2, 500px);">
- <img class="img" height:"120%" src="https://github-readme-stats.vercel.app/api?username=rbhomale17&show_icons=true" />
- <img class="img" height:"150%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhomale17&layout=compact" />
- <!-- --- -->
- <!-- <img class="img" height:"150%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rbhomale17&" alt="Rushikesh_Bhomale" /> -->
- <!-- </div> -->
-
-<!-- <p align="left"> <img class="img" height:"150%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rbhomale17&" alt="Rushikesh_Bhomale" /></a> </p> -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rbhomale17&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
 ---
 
- <a href="https://github.com/rbhomale17"><img src="https://github-profile-trophy.vercel.app/?username=rbhomale17" alt="Rushikesh_Bhomale" /></a>  
-  <a href="https://github.com/rbhomale17"><img src="https://github-contributor-stats.vercel.app/api?username=rbhomale17&limit=5&combine_all_yearly_contributions=true" alt="Rushikesh_Bhomale" /></a>  
+## 📈 Contribution Graph
 
-<a href="https://github.com/rbhomale17"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbhomale17" alt="Rushikesh_Bhomale" /></a>  
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbhomale17" alt="Rushikesh_Bhomale" /></a> </p> -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbhomale17" alt="GitHub Activity Graph"/>
+</div>
 
 ---
-
