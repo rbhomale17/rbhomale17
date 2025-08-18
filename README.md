@@ -8,7 +8,7 @@
   <a href="https://www.neuralhq.ai/" target="_blank"><b>NeuralHQ Technologies</b></a>,  
   where I focus on building <b>robust, efficient, and scalable backend solutions</b>.  
   <br><br>
-  With <b>1.5+ years of experience</b>, I have worked extensively with  
+  With over <b>1.8 years of experience</b>, I have worked extensively with  
   <b>JavaScript, Python, PostgreSQL, MongoDB, and Mongoose</b>,  
   developing high-performance applications.  
   <br><br>
@@ -29,7 +29,7 @@
   <a href="https://rbhomale17.github.io/" target="_blank"><b>View My Work</b></a>  
   <br><br>
   💬 <b>Ask Me About:</b>  
-  <b>Node.js | Express.js | Python | Flask | FastAPI | PostgreSQL | MongoDB | GCP | Mongoose | JavaScript | LLD | npm</b>  
+  <b>Node.js | Express.js | Python | Flask | FastAPI | PostgreSQL | MongoDB | GCP | Mongoose | JavaScript </b>  
   <br><br>
   📫 <b>Contact Me:</b>  
   <a href="mailto:rushikeshbhomale@gmail.com"><b>rushikeshbhomale@gmail.com</b></a> |  
