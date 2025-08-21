@@ -44,15 +44,31 @@
 ### 🔹 Software Engineer @ NeuralHQ Technologies
 *Jan 2024 – Present | Bengaluru*
 
+Experienced Backend Developer with a strong foundation in building scalable server-side applications and a passion for creating innovative solutions. Currently working as a Software Engineer at NeuralHQ, specializing in developing robust APIs with expertise in microservices architecture and AI integration.
+
+
+**Key Responsibilities & Achievements:**
+- Design and develop scalable microservices architecture from conception to production deployment
+- Owned Design and development of scalable backend infrastructure for high-impact projects including Hasiru Rakshaka (tree monitoring system) and tunnel and landmine detection system, showcasing backend technical leadership
+- Build and maintain robust server-side applications and APIs using Node.js, Express.js, Python, FastAPI, and Flask
+- Architect and manage database systems including PostgreSQL, MongoDB, and Redis for optimal performance and scalability
+- Deploy and manage cloud infrastructure on Google Cloud Platform with CI/CD pipelines
+- Implement security best practices including JWT-based authentication and role-based access control
+
 **Key Projects:**
-- **🤖 AI Agent "Sean" (Fintech)**: Contributed to a microservices-based AI Agent automating credit card-related customer queries. The agent used personalised SOPs and customer account data to resolve requests (e.g., bill inquiries, payments, card blocking) and escalated complex cases to human agents.
-
-  Developed authentication and identity management microservices, including PostgreSQL schema design, JWT-based REST APIs, and role-based access control, enabling secure access to financial data across services.
-- **🍷 AI Sommelier Agent**: Built a conversational assistant that engages users to understand their wine preferences (varietal, taste, budget, food pairing, etc.) and recommends wines from inventory with purchase links. Implemented backend logic for dialogue flow, preference extraction, and inventory integration using Node.js, Express.js, PostgreSQL, and LLM APIs.
-- **🛡️ Defense System**: Defence system for detecting underground tunnels and landmines using drone/rover-collected GPR data analysed by an ML pipeline and visualised on a real-time mission dashboard. 
-
-  Architected and developed the FastAPI-based backend from scratch as the communication hub between frontend, ML services, and drone systems, designing API contracts and implementing real-time mission management, GPR detection data transfer and PostgreSQL integration.
-- **🌳 Hasiru Rakshaka**: Designed and deployed the entire backend system using Node.js and PostgreSQL for BBMP's "Hasiru Rakshaka" initiative, which tracks tree plantation drives across Bengaluru. The platform enables users to record plantation activities and monitor the health of over 100,000+ planted saplings.
+- **🤖 AI Agent "Sean" (Fintech Customer Support)**:
+  - Implemented a microservices-based AI Agent automating credit card-related query resolution. Utilized complex SOPs and transactional data to resolve card-related queries and escalated complex cases.
+  - Developed authentication and identity management microservices with PostgreSQL schema design, JWT-based REST APIs, and role-based access control.
+  - Reduced average query resolution time by ~60%
+- **🍷 AI Sommelier Agent (Wine Discovery Assistant)**:
+  - Built a conversational assistant that engages users to understand wine preferences and recommends wines from inventory with purchase links.
+  - Implemented backend logic for dialogue flow, preference extraction, and inventory integration using Python, Flask, MongoDB, and LLM APIs
+- **🛡️ Tunnel & Landmine Detection (Defense System)**:
+  - Developed a defence system for detecting underground tunnels and landmines using drone/rover-collected GPR data.
+  - Architected and developed the FastAPI-based backend as the communication hub between frontend, ML services, and drone systems, implementing real-time mission management and GPR detection data transfer
+- **🌳 Hasiru Rakshaka (Tree Monitoring System)**:
+  - Designed and deployed the entire backend system using Node.js and PostgreSQL for BBMP's initiative tracking tree plantation drives across Bengaluru.
+  - The platform enables monitoring of over 100,000+ planted saplings
 
 ---
 
