@@ -1,6 +1,16 @@
 **<h2> Hello👋, I am Rushikesh Diliprao Bhomale</h2>**   
          
 <p class="empty"><em>   
+
+Experienced <b>Software Engineer</b> specializing in Backend Developer with about 2 years of experience architecting scalable production systems. Specializes in Python, JavaScript, FastAPI, and Node.js with expertise in building robust microservices, PostgreSQL, MongoDB, Google Cloud Platform, Docker, Git, and RESTful APIs. Demonstrates proficiency across diverse domains from financial data security to environmental monitoring systems.
+
+
+Developed AI-powered solutions including fintech customer support agents that reduced query resolution time by 60%, conversational wine discovery assistants delivering personalized wine recommendations, defense systems for tunnel and landmine detection with real-time data processing capabilities, and city-wide environmental monitoring infrastructure tracking 100,000+ saplings across Bengaluru.
+
+
+Passionate about writing clean, efficient code and enjoys collaborating with cross-functional teams to solve complex problems. Loves leveraging new technologies to build innovative solutions that make a real impact.
+
+<!--
   I am a <b>Software Engineer</b> specializing in <b>backend development</b>, with expertise in  
   <b>Node.js, Express.js, Python, Flask, FastAPI, and scalable backend architecture</b>.  
   <br><br>
@@ -12,12 +22,12 @@
   <b>JavaScript, Python, PostgreSQL, MongoDB, and Mongoose</b>,  
   developing high-performance applications.  
   <br><br>
-  I also work with <b>Google Cloud Platform (GCP) tools</b>,  
-  leveraging cloud services to build and deploy scalable applications.  
-  <br><br>
-  Previously, I completed a <b>rigorous web development program</b> at  
-  <a href="https://masaischool.com/" target="_blank"><b>Masai School</b></a>,  
-  gaining hands-on experience through real-world projects.  
+  -->
+  Currently, I contribute to <a href="https://www.neuralhq.ai/" target="_blank"><b>NeuralHQ.ai</b></a>, where I focus on building <b>robust, efficient, and scalable backend solutions</b>.
+  <br>
+  I also work with <b>Google Cloud Platform (GCP) tools</b>, leveraging cloud services to build and deploy scalable applications.  
+  <br>
+  Previously, I completed a <b>rigorous web development program</b> at <a href="https://masaischool.com/" target="_blank"><b>Masai School</b></a>, gaining hands-on experience through real-world projects.  
 </em></p>
 
 <hr>
@@ -60,13 +70,13 @@ Experienced Backend Developer with a strong foundation in building scalable serv
   - Implemented a microservices-based AI Agent automating credit card-related query resolution. Utilized complex SOPs and transactional data to resolve card-related queries and escalated complex cases.
   - Developed authentication and identity management microservices with PostgreSQL schema design, JWT-based REST APIs, and role-based access control.
   - Reduced average query resolution time by ~60%
-- **🍷 AI Sommelier Agent (Wine Discovery Assistant)**:
+- **🍷 AI Sommelier Agent (Wine Discovery Assistant)** [Visit Here](https://chat.sommelier.bot/):
   - Built a conversational assistant that engages users to understand wine preferences and recommends wines from inventory with purchase links.
   - Implemented backend logic for dialogue flow, preference extraction, and inventory integration using Python, Flask, MongoDB, and LLM APIs
 - **🛡️ Tunnel & Landmine Detection (Defense System)**:
   - Developed a defence system for detecting underground tunnels and landmines using drone/rover-collected GPR data.
   - Architected and developed the FastAPI-based backend as the communication hub between frontend, ML services, and drone systems, implementing real-time mission management and GPR detection data transfer
-- **🌳 Hasiru Rakshaka (Tree Monitoring System)**:
+- **🌳 Hasiru Rakshaka (Tree Monitoring System)** [Visit Here](https://hasirurakshaka.bbmpgov.in/):
   - Designed and deployed the entire backend system using Node.js and PostgreSQL for BBMP's initiative tracking tree plantation drives across Bengaluru.
   - The platform enables monitoring of over 100,000+ planted saplings
 
