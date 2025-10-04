@@ -2,7 +2,7 @@
          
 <p class="empty"><em>   
 
-Experienced <b>Software Engineer</b> specializing in Backend Developer with about 2 years of experience architecting scalable production systems. Specializes in Python, JavaScript, FastAPI, and Node.js with expertise in building robust microservices, PostgreSQL, MongoDB, Google Cloud Platform, Docker, Git, and RESTful APIs. Demonstrates proficiency across diverse domains from financial data security to environmental monitoring systems.
+Experienced <b>Software Developer</b> specializing in Backend Developer with about 2 years of experience architecting scalable production systems. Specializes in Python, JavaScript, FastAPI, and Node.js with expertise in building robust microservices, PostgreSQL, MongoDB, Google Cloud Platform, Docker, Git, and RESTful APIs. Demonstrates proficiency across diverse domains from financial data security to environmental monitoring systems.
 
 
 Developed AI-powered solutions including fintech customer support agents that reduced query resolution time by 60%, conversational wine discovery assistants delivering personalized wine recommendations, defense systems for tunnel and landmine detection with real-time data processing capabilities, and city-wide environmental monitoring infrastructure tracking 100,000+ saplings across Bengaluru.
@@ -11,7 +11,7 @@ Developed AI-powered solutions including fintech customer support agents that re
 Passionate about writing clean, efficient code and enjoys collaborating with cross-functional teams to solve complex problems. Loves leveraging new technologies to build innovative solutions that make a real impact.
 
 <!--
-  I am a <b>Software Engineer</b> specializing in <b>backend development</b>, with expertise in  
+  I am a <b>Software Developer</b> specializing in <b>backend development</b>, with expertise in  
   <b>Node.js, Express.js, Python, Flask, FastAPI, and scalable backend architecture</b>.  
   <br><br>
   Currently, I contribute to  
@@ -33,7 +33,7 @@ Passionate about writing clean, efficient code and enjoys collaborating with cro
 <hr>
 
 <p>
-  🔹 <b>Software Engineer @ NeuralHQ Technologies | Backend Developer | Aspiring GCP Data Engineer</b>  
+  🔹 <b>Software Developer @ NeuralHQ Technologies | Backend Developer | Aspiring GCP Data Engineer</b>  
   <br><br>
   🔗 <b>Portfolio:</b>  
   <a href="https://rbhomale17.github.io/" target="_blank"><b>View My Work</b></a>  
@@ -51,7 +51,7 @@ Passionate about writing clean, efficient code and enjoys collaborating with cro
 
 ## 💼 Professional Experience
 
-### 🔹 Software Engineer @ NeuralHQ Technologies
+### 🔹 Software Developer @ NeuralHQ Technologies
 *Jan 2024 – Present | Bengaluru*
 
 Experienced Backend Developer with a strong foundation in building scalable server-side applications and a passion for creating innovative solutions. Currently working as a Software Engineer at NeuralHQ, specializing in developing robust APIs with expertise in microservices architecture and AI integration.
