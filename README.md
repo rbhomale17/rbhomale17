@@ -52,7 +52,7 @@ Passionate about writing clean, efficient code and enjoys collaborating with cro
 ## 💼 Professional Experience
 
 ### 🔹 Software Developer @ NeuralHQ Technologies
-*Jan 2024 – Present | Bengaluru*
+*Jan 2024 – Sep 2025 | Bengaluru*
 
 Experienced Backend Developer with a strong foundation in building scalable server-side applications and a passion for creating innovative solutions. Currently working as a Software Engineer at NeuralHQ, specializing in developing robust APIs with expertise in microservices architecture and AI integration.
 
