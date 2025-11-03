@@ -2,7 +2,7 @@
          
 <p class="empty"><em>   
 
-Experienced <b>Software Developer</b> specializing in Backend Developer with about 2 years of experience architecting scalable production systems. Specializes in Python, JavaScript, FastAPI, and Node.js with expertise in building robust microservices, PostgreSQL, MongoDB, Google Cloud Platform, Docker, Git, and RESTful APIs. Demonstrates proficiency across diverse domains from financial data security to environmental monitoring systems.
+Experienced <b>Software Developer</b> specializing in Backend Developer with about ~2 years of experience architecting scalable production systems. Specializes in Python, JavaScript, FastAPI, and Node.js with expertise in building robust microservices, PostgreSQL, MongoDB, Google Cloud Platform, Docker, Git, and RESTful APIs. Demonstrates proficiency across diverse domains from financial data security to environmental monitoring systems.
 
 
 Developed AI-powered solutions including fintech customer support agents that reduced query resolution time by 60%, conversational wine discovery assistants delivering personalized wine recommendations, defense systems for tunnel and landmine detection with real-time data processing capabilities, and city-wide environmental monitoring infrastructure tracking 100,000+ saplings across Bengaluru.
