@@ -1,4 +1,4 @@
-**<h2> Hello👋, I am Rushikesh Diliprao Bhomale</h2>**   
+**<h2> Hello👋, I am Rushikesh Diliprao Bhomale</h2>** 
          
 <p class="empty"><em>   
 
